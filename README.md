@@ -147,7 +147,7 @@ The daily profit trend shows near-zero activity from 2023 to mid-2024, followed 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/trader-behavior-sentiment-analysis.git
+git clone https://github.com/Mona-Agrawall/trader-behavior-sentiment-analysis.git
 cd trader-behavior-sentiment-analysis
 
 # Install dependencies
@@ -157,13 +157,8 @@ pip install -r requirements.txt
 jupyter notebook notebook/analysis.ipynb
 ```
 
-> **Note:** The datasets are not included in the repository due to size. Download them from the links provided in the assignment and place them inside the `data/` folder before running the notebook.
-
 ---
 
 ## Author
 
 **Mona Agrawal**
-Assignment submitted for: *Junior Data Scientist – Trader Behavior Insights*
-Submitted to: saami@primetrade.ai | nagasai@primetrade.ai | chetan@primetrade.ai
-CC: sonika@primetrade.ai
